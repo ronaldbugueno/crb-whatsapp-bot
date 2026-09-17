@@ -58,7 +58,8 @@ FIXED_REPLIES = {
     ("cotizacion", "presupuesto", "precio", "cuanto cuesta"): (
         "Para cotizar necesitamos algunos datos de tu proyecto. "
         "Cuéntanos: ¿qué tipo de servicio necesitas (automatización, electricidad, tableros, mantenimiento o redes), "
-        "en qué comuna/región, y si es urgente? Con eso te derivamos con el área correspondiente."
+        "en qué comuna/región, y si es urgente? También déjanos tu nombre y un teléfono o correo de contacto "
+        "para que te enviemos la cotización."
     ),
 }
 
