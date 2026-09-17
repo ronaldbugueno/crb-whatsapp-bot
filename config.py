@@ -13,7 +13,7 @@ TIMEZONE = zoneinfo.ZoneInfo("America/Santiago")
 BUSINESS_HOURS = {
     0: (9, 23),  # Lunes
     1: (9, 23),  # Martes
-    2: (9, 23),  # Miércoles -- TEMPORAL: extendido para pruebas, revertir a (9, 18)
+    2: (9, 24),  # Miércoles -- TEMPORAL: extendido para pruebas, revertir a (9, 18)
     3: (9, 23),  # Jueves
     4: (9, 23),  # Viernes
     5: None,     # Sábado (cerrado)
