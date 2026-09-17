@@ -11,11 +11,11 @@ TIMEZONE = zoneinfo.ZoneInfo("America/Santiago")
 # Horario de atención "humana" (fuera de este rango, el bot avisa que
 # un asesor responderá en horario hábil, en vez de prometer una respuesta inmediata).
 BUSINESS_HOURS = {
-    0: (9, 18),  # Lunes
-    1: (9, 18),  # Martes
+    0: (9, 23),  # Lunes
+    1: (9, 23),  # Martes
     2: (9, 23),  # Miércoles -- TEMPORAL: extendido para pruebas, revertir a (9, 18)
-    3: (9, 18),  # Jueves
-    4: (9, 18),  # Viernes
+    3: (9, 23),  # Jueves
+    4: (9, 23),  # Viernes
     5: None,     # Sábado (cerrado)
     6: None,     # Domingo (cerrado)
 }
