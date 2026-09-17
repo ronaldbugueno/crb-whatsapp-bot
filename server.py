@@ -37,11 +37,13 @@ CORS(
 FUERA_DE_HORARIO_MSG = (
     "Gracias por escribirnos. Nuestro horario comercial es de lunes a viernes de 9:00 a 18:00; "
     "en este momento estamos fuera de horario, pero un asesor te responderá apenas estemos disponibles. "
-    "Si es una urgencia técnica con contrato vigente, indícalo y lo derivamos de inmediato."
+    "Si es una urgencia técnica con contrato vigente, indícalo y lo derivamos de inmediato. "
+    "Para poder contactarte, cuéntanos tu nombre y un teléfono o correo de contacto."
 )
 
 DERIVADO_MSG = (
-    "Gracias por tu mensaje. Un asesor de CRB Ingeniería va a revisar tu consulta y te responde a la brevedad."
+    "Gracias por tu mensaje. Un asesor de CRB Ingeniería va a revisar tu consulta y te responde a la brevedad. "
+    "Para poder contactarte, cuéntanos tu nombre y un teléfono o correo de contacto."
 )
 
 
